@@ -26,12 +26,12 @@ Make sure you have Git and Visual Studio Code installed on your system.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/landing-page-project.git
+    git clone https://github.com/sahilgupta43/codsoft-landingpage.git
     ```
 
 2. **Open the project in Visual Studio Code:**
     ```bash
-    code landing-page-project
+    code codsoft-landingpage
     ```
 
 3. **Open the `index.html` file in your preferred web browser to view the landing page:**
