@@ -1,39 +1,56 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+/* GLobal Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-header {
-    background-color: #4CAF50;
+.header {
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.top-nav {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
     color: white;
-    padding: 20px;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
 }
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-nav ul li a {
+.top-links a {
     color: white;
+    margin-right: 15px;
+    font-size: 18px;
+}
+.top-number {
+    font-size: 16px;
+}
+.top-btn button {
+    background: white;
+    border: none;
+    color: #ff7e5f;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.navbar {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.logo img {
+    height: 50px;
+}
+.nav-links a {
+    margin-right: 15px;
     text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
-
-section {
-    padding: 20px;
-    margin: 20px 0;
-}
-
-footer {
-    background-color: #f1f1f1;
-    text-align: center;
-    padding: 10px;
+.nav-search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
 }
