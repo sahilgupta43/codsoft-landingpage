@@ -53,3 +53,8 @@ I would like to thank CodSoft for providing me with this opportunity to learn an
 ## Contact
 If you have any questions or feedback, feel free to contact me at sahilgupta6570@gmail.com.
 
+## Follow Me
+- GitHub: [https://github.com/sahilgupta43](https://github.com/sahilgupta43)
+- LinkedIn: [https://www.linkedin.com/in/sahil-gupta-44294b2b2/](https://www.linkedin.com/in/sahil-gupta-44294b2b2/)
+- Facebook: [https://facebook.com/sahilgupta.np](https://facebook.com/sahilgupta.np)
+- Instagram: [https://instagram.com/sahilgupta43_](https://instagram.com/sahilgupta43_)
