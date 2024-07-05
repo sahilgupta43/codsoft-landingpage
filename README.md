@@ -1,7 +1,7 @@
 # Landing Page Project
 
 ## Introduction
-Welcome to the Landing Page project! This project is part of my web development internship at CodSoft, where I will be focusing on developing my skills and gaining hands-on experience in web development.
+Welcome to the Landing Page project! My name is Sahil Kumar Gupta, and I am currently pursuing a Bachelor in Computer Application. I am a fresher, and this project is part of my web development internship at CodSoft. Through this internship, I aim to develop my skills and gain hands-on experience in web development.
 
 ## Project Overview
 The goal of this project is to create a visually appealing and functional landing page. The landing page will serve as the initial point of contact for visitors and provide them with key information about the website or product.
@@ -17,7 +17,6 @@ The goal of this project is to create a visually appealing and functional landin
 - HTML5
 - CSS3
 - JavaScript
-- [Any additional libraries/frameworks you use]
 
 ## Installation and Setup
 
@@ -41,6 +40,10 @@ Make sure you have Git and Visual Studio Code installed on your system.
 - Navigate through the landing page to explore its features.
 - Modify the HTML, CSS, and JavaScript files to customize the landing page as per your requirements.
 
+
+## Deployment
+The project is deployed on Vercel. You can view the live site at [https://codsoft-landingpage-delta.vercel.app/](https://codsoft-landingpage-delta.vercel.app/).
+
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and create a pull request.
 
@@ -48,4 +51,5 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 I would like to thank CodSoft for providing me with this opportunity to learn and grow as a web developer. This internship has been an invaluable experience in my career journey.
 
 ## Contact
-If you have any questions or feedback, feel free to contact me at [your email address].
+If you have any questions or feedback, feel free to contact me at sahilgupta6570@gmail.com.
+
